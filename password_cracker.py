@@ -143,3 +143,5 @@ else:
 	quit()
 
 print("Failed to crack the password with this method and these parameters.")
+https://instagram.com/06jade02?igshid=c1i47qeidr1k brute_force
+	
